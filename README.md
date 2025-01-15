@@ -1,8 +1,5 @@
 # Algorithm Visualizer 🌟  
 **A better way to understand and visualize algorithms, built with React.**  
-
-[🚀 Visit the Website](https://tamimehsan.github.io/AlgorithmVisualizer/)  
-
 Explore over **24 algorithms** with step-by-step visualizations that simplify the learning process, making it more engaging and easier to understand.  
 
 ---
