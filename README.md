@@ -1,88 +1,111 @@
-![](https://raw.githubusercontent.com/TamimEhsan/AlgorithmVisualizer/master/Assets/homepage.JPG)
+# Algorithm Visualizer 🌟  
+**A better way to understand and visualize algorithms, built with React.**  
 
-# Algorithm Visualizer
+[🚀 Visit the Website](https://tamimehsan.github.io/AlgorithmVisualizer/)  
 
-A better visualization of different algorithms made with React. 
+Explore over **24 algorithms** with step-by-step visualizations that simplify the learning process, making it more engaging and easier to understand.  
 
-Visit : https://tamimehsan.github.io/AlgorithmVisualizer/
+---
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=TamimEhsan.AlgorithmVisualizer)
+## 🌈 Features  
 
-This is made to be the second version of my previous pathfinding project made with C++ igraphics. But then added some more visualizations too.  
+### 🎯 **Segments Available**  
+- **Pathfinder**  
+- **Prime Numbers**  
+- **Sorting Algorithms**  
+- **N Queen**  
+- **Convex Hull**  
+- **Binary Search Game**  
+- **Recursion Tree**  
+- **Turing Machine**  
 
-So far there are 6 segments  
-- Pathfinder
-- Prime Numbers
-- Sorting Algorithms
-- N Queen
-- Convex Hull
-- Binary Search Game
-- Recursion Tree
-- Turing Machine
+---
 
-I have implemented a total of `24 algorithms` so far. And will try to add more later.  
+## 💡 **Algorithms Implemented**  
 
-## Algorithms implemented 
+### 🔍 **Graph Search**  
+- Depth-First Search (DFS)  
+- Breadth-First Search (BFS)  
+- Dijkstra's Algorithm  
+- A* Search Algorithm  
+- Recursive Maze Creation  
 
-- DFS
-- BFS
-- Dijkstra
-- A star
-- Recursive Maze Creation
-- Bubble sort
-- Selection sort
-- Insertion sort
-- Heap sort
-- Merge sort
-- Quick sort
-- Sieve of Eratosthenes
-- Archimedes Spiral
-- N Queen Backtracking
-- Graham Scan for Convex Hull
-- Binary Search
-- Recursion
-  - Fibonacci Number
-  - Binomial Coefficient
-  - Derangement
-  - Fast Exponentiation
-  - Stirling Number of Second Kind
+### 🔃 **Sorting**  
+- Bubble Sort  
+- Selection Sort  
+- Insertion Sort  
+- Heap Sort  
+- Merge Sort  
+- Quick Sort  
 
-- Turing Machine
-  - Bitwise NOT
-  - Increment one
-  - 2's Compliment
+### 🧮 **Prime Numbers**  
+- Sieve of Eratosthenes  
 
+### 🌀 **Mathematical Visualizations**  
+- Archimedes Spiral  
 
+### 👑 **N Queen Problem**  
+- N Queen Backtracking  
 
+### 📐 **Convex Hull**  
+- Graham Scan Algorithm  
 
-I am not sure if anyone would like to contribute to this project or not. But any kind of contributions are welcomes. Also if you like this please star this repo. It keeps me motivated.
+### 🔍 **Binary Search**  
+- Binary Search Algorithm  
 
-### Special Features addition timeline
+### 🔗 **Recursion**  
+- Fibonacci Sequence  
+- Binomial Coefficient  
+- Derangement  
+- Fast Exponentiation  
+- Stirling Numbers of the Second Kind  
 
-- Commit 16: Added Flip Move animation to inplace sorting components
-- Commit 20: Added Tree Structure
+### 🤖 **Turing Machine**  
+- Bitwise NOT  
+- Increment by One  
+- 2's Complement  
 
-### Acknowledgement
+---
 
-I took inspirations from the following sources for some of the segments.
-- `Pathfinder`: [The Projects That Got Me Into Google](https://youtu.be/n4t_-NjY_Sg)
-- `Archimedes Spiral for Primes`: [Why do prime numbers make these spirals? ](https://youtu.be/EK32jo7i5LQ)
-- `Recursion tree visualizer`: [Recursion Tree Visualizer](https://github.com/brpapa/recursion-tree-visualizer)
-- `Turing Machine`: [Tursi](https://github.com/schaetzc/tursi)
+## 🛠️ **How to Run Locally**  
+Make sure you have Node.js installed on your system.  
 
-### Note to self:
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/akarshi19/Algorithm-Visualizer.git
+   cd Algorithm-Visualizer
 
-To deploy recent changes to page
+2. Install dependencies:
+   ```bash
+   npm install
 
-```
-npm run build
-npm run deploy
-```
+3. Start the development server:
+   ```bash
+   npm run dev
+---
 
+## 🤝 Contributions  
+Contributions are always welcome!
 
+If you have an idea for a new feature or improvement, feel free to create an issue.  
+Want to enhance an existing feature? Open a pull request.  
+If you like the project, don’t forget to star the repo! ⭐ It keeps me motivated to keep improving.
 
-### Inspiration for next sections
+---
 
-- [University of San Francisco Site](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html) 
-- ​    [algorithm-visualizer](https://github.com/algorithm-visualizer)    /      [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)     
+## 🎓 Acknowledgments  
+Inspirations for some segments:  
+- **Pathfinder**: [The Projects That Got Me Into Google](https://clementmihailescu.github.io/Pathfinding-Visualizer/)  
+- **Archimedes Spiral for Primes**:[Why Do Prime Numbers Make These Spirals?](https://www.youtube.com/watch?v=EK32jo7i5LQ)  
+- **Recursion Tree Visualizer**: [Recursion Tree Visualizer](https://github.com/brpapa/recursion-tree-visualizer)  
+- **Turing Machine**: [Turing Machine Simulator](https://github.com/schaetzc/tursi)  
 
+---
+
+## 📣 License  
+This project is under the [MIT License](LICENSE).
+
+---
+
+Happy Visualizing! 🚀✨   
+   
